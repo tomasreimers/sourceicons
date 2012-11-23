@@ -52,7 +52,7 @@ The ribbon can accept 2 config attributes:
  - `green`
  - `black` (default) 
  - `orange`
- - `grey` 
+ - `gray` 
  - `white`
 
 ## Support (Tested on)
