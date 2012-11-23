@@ -23,13 +23,17 @@ Note that the `href` should be the repository, and the link should have the clas
 
 When clicked it will display a modal with information about the repository.
 
+![Modal](https://raw.github.com/tomasreimers/sourceicons/master/example.png)
+
 ## Fallback
 
 If the Github API is down, sourceicons will simply modify the URL to point to the correct repo and not display a modal when clicked on.
 
 ## Ribbons
 
-sourceicons can also automatically create a github ribbon for you.
+![Ribbon](https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png)
+
+sourceicons can also automatically create a Github ribbon for you.
 
     <a href="tomasreimers/sourceicons" class="sourceicon_ribbon"></a>
 
