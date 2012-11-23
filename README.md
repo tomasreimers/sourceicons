@@ -55,9 +55,13 @@ The ribbon can accept 2 config attributes:
  - `grey` 
  - `white`
 
-## Support
+## Support (Tested on)
 
  - Firefox 17+
+ - Chrome 23+
+ - Opera 11+ 
+ - IE 9+
+ - Safari 5+
 
 ## Thanks
 
