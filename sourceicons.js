@@ -131,11 +131,9 @@ $('document').ready(function (){
                             <div class="sourceicon_readmore"><a href="' + data.html_url + '#readme">Read More<a></div>\
                         </div>\
                         <!-- Propic -->\
-                        <div class="sourceicon_cutout">\
-                            <div class="sourceicon_sidebox">\
-                                <div class="sourceicon_gloss">\
-                                    <img class="sourceicon_propic" src="' + data.owner.avatar_url + '" />\
-                                </div>\
+                        <div class="sourceicon_sidebox">\
+                            <div class="sourceicon_gloss">\
+                                <img class="sourceicon_propic" src="' + data.owner.avatar_url + '" />\
                             </div>\
                         </div>\
                     </div>');
